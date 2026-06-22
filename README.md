@@ -25,7 +25,7 @@ Process intelligence MVP using event-log data to detect process variants, bottle
 
 The project focuses on turning operational process data into transparent decision support for process owners, business stakeholders and management.
 
-Repository: https://github.com/Holtz228/industrial-process-intelligence
+Repository: https://github.com/jannis-holtz/industrial-process-intelligence
 
 Core capabilities:
 
@@ -57,37 +57,13 @@ Python, Pandas, PM4Py, Streamlit, Pytest
 
 ---
 
-### 2. KRITIS IT/OT Blast Radius Visualizer
-
-IT/OT resilience MVP for analyzing dependencies, critical assets and potential blast radius effects in industrial infrastructure scenarios.
-
-The project focuses on making technical dependencies understandable for resilience planning, risk prioritization and management-oriented decision support.
-
-Repository: https://github.com/Holtz228/kritis-resilience-radius
-
-Core capabilities:
-
-* IT/OT asset dependency modeling
-* Graph-based dependency analysis
-* Blast radius visualization
-* Criticality and vulnerability indicators
-* Asset risk prioritization
-* Dependency-focused dashboard views
-* Management-oriented resilience insights
-
-Tech stack:
-
-Python, Pandas, NetworkX, Streamlit
-
----
-
-### 3. Maintenance Readiness & Virtual Sensor Decision Support
+### 2. Maintenance Readiness & Virtual Sensor Decision Support
 
 Industrial analytics MVP using NASA C-MAPSS sensor time series to build a virtual sensor fallback, asset health scoring and maintenance recommendation layer.
 
 The project focuses on maintenance decision support, not automated machine control. It includes a Streamlit dashboard, output validation and pytest-based contract tests.
 
-Repository: https://github.com/Holtz228/maintenance-readiness-virtual-sensor
+Repository: https://github.com/jannis-holtz/maintenance-readiness-virtual-sensor
 
 Core capabilities:
 
@@ -117,6 +93,30 @@ Validated project result:
 Tech stack:
 
 Python, Pandas, NumPy, Scikit-learn, RandomForestRegressor, Plotly, Streamlit, Pytest
+
+---
+
+### 3. KRITIS IT/OT Blast Radius Visualizer
+
+IT/OT resilience MVP for analyzing dependencies, critical assets and potential blast radius effects in industrial infrastructure scenarios.
+
+The project focuses on making technical dependencies understandable for resilience planning, risk prioritization and management-oriented decision support.
+
+Repository: https://github.com/jannis-holtz/kritis-resilience-radius
+
+Core capabilities:
+
+* IT/OT asset dependency modeling
+* Graph-based dependency analysis
+* Blast radius visualization
+* Criticality and vulnerability indicators
+* Asset risk prioritization
+* Dependency-focused dashboard views
+* Management-oriented resilience insights
+
+Tech stack:
+
+Python, Pandas, NetworkX, Streamlit
 
 ## Project Design Principles
 
@@ -177,11 +177,11 @@ This portfolio is aligned with entry-level and early-career roles such as:
 | Project                                                 | Status    |
 | ------------------------------------------------------- | --------- |
 | Industrial Process Intelligence Platform                | Completed |
-| KRITIS IT/OT Blast Radius Visualizer                    | Completed |
 | Maintenance Readiness & Virtual Sensor Decision Support | Completed |
+| KRITIS IT/OT Blast Radius Visualizer                    | Completed |
 
 ## Contact
 
 This portfolio is maintained by Jannis Holtz.
 
-GitHub: https://github.com/Holtz228
+GitHub: https://github.com/jannis-holtz
