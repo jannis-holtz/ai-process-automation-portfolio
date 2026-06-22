@@ -179,4 +179,5 @@ This portfolio is aligned with entry-level and early-career roles such as:
 
 This portfolio is maintained by Jannis Holtz.
 
-GitHub: https://github.com/Holtz228
+GitHub: https://github.com/jannis-holtz
+
